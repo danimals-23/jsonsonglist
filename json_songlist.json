@@ -1,0 +1,64 @@
+{
+	"song":[
+	{
+		"name":"Payphone",
+		"author":"Maroon Five",
+		"year":"2012",
+		"genres":["Pop"]
+	},
+	{
+		"name":"Sugar",
+		"author":"Maroon Five",
+		"year":"2015",
+		"genres":["Pop"]
+	},
+	{
+		"name":"Hey Look Ma, I Made It!",
+		"author":"Panic! At The Disco",
+		"year":"2018",
+		"genres":["Indie"]
+	},
+	{
+		"name":"Death Of A Bachelor",
+		"author":"Panic! At The Disco",
+		"year":"2016",
+		"genres":["Pop"]
+	},
+	{
+		"name":"Runaway",
+		"author":"Eric Nam",
+		"year":"2019",
+		"genres":["K-Pop"]
+	},
+	{
+		"name":"Honestly",
+		"author":"Eric Nam",
+		"year":"2018",
+		"genres":["K-Pop"]
+	},
+	{
+		"name":"Thinking Out Loud",
+		"author":"Ed Sheeran",
+		"year":"2014",
+		"genres":["Pop"]
+	},
+	{
+		"name":"Perfect",
+		"author":"Ed Sheeran",
+		"year":"2017",
+		"genres":["Pop"]
+	},
+	{
+		"name":"Photograph",
+		"author":"Ed Sheeran",
+		"year":"2014",
+		"genres":["Folk"]
+	},
+	{
+		"name":"Red",
+		"author":"Taylor Swift",
+		"year":"2012",
+		"genres":["Pop","Country","Rock"]
+	}
+	]
+}
