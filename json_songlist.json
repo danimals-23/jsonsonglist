@@ -1,5 +1,4 @@
-{
-	"song":[
+[
 	{
 		"name":"Payphone",
 		"author":"Maroon Five",
@@ -60,5 +59,4 @@
 		"year":"2012",
 		"genres":["Pop","Country","Rock"]
 	}
-	]
-}
+]
